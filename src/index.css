@@ -16,3 +16,9 @@ body {
 .cart-item .right-block{
   padding:0 20px;
 }
+.action-icon{
+  height:15px;
+  width:15px;
+  padding-right: 20px;
+  margin-top: 15px;
+}
