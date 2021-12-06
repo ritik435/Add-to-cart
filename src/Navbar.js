@@ -12,7 +12,7 @@ const Navbar = (props) => {
 
                 <div style={styles.cartIcon}>
                     <Badge color="secondary" badgeContent={props.onProductCount()}>
-                        <ShoppingCartIcon />
+                        <ShoppingCartIcon />{" "}
                     </Badge>
 
                 </div>
